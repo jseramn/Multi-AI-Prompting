@@ -1,0 +1,1 @@
+La idea es automatizar proyectos multi IA, cuando quiero meter un input en multiples IA para tener multiples resultados, necesito un script que cree los directorios con las multiples carpetas, seleccionar que IA's usare, y otras cositas mas como para guardar los resultados y tenerlos mejor almacenados
